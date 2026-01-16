@@ -1,2 +1,2 @@
 # responsive-landing-page
-HTML + CSS puro, diseño adaptable.
+Clean and responsive landing page built with HTML and CSS.
